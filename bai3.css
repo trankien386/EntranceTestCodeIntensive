@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	margin: 0;
+}
+
+.main .rule span {
+	display: inline-block;
+	margin: 10px 0;
+}
+
+.main .user-input input {
+	padding: 10px;
+	width: 200px;
+	margin-right: 10px;
+}
+
+.main .user-input button {
+	height: 39px;
+}
